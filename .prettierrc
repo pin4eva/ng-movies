@@ -1,0 +1,9 @@
+{
+  "tabWidth": 2,
+  "useTabs": false,
+  "editorconfig": true,
+  "semi": true,
+  "printWidth": 120,
+  "arrowParens": "always",
+  "trailingComma": "none"
+}
